@@ -1,0 +1,200 @@
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/kconfig/conf
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/kconfig/conf.o
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/kconfig/expr.o
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/kconfig/util.o
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/elf-parse.o
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/sorttable.o
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/tracepoint-update.o
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/sorttable
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/dtc/dtc-lexer.lex.o
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/dtc/livetree.o
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/dtc/data.o
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/dtc/dtc-parser.tab.o
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/dtc/checks.o
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/dtc/flattree.o
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/dtc/treesource.o
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/dtc/fstree.o
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/dtc/dtc.o
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/dtc/libfdt/fdt_addresses.o
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/dtc/libfdt/fdt_overlay.o
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/dtc/libfdt/fdt.o
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/dtc/libfdt/fdt_wip.o
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/dtc/libfdt/fdt_ro.o
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/dtc/libfdt/fdt_rw.o
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/dtc/libfdt/fdt_strerror.o
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/dtc/libfdt/fdt_empty_tree.o
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/dtc/libfdt/fdt_sw.o
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/dtc/dtc
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/dtc/srcpos.o
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/dtc/fdtoverlay
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/dtc/util.o
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/dtc/fdtoverlay.o
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/kallsyms
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/asn1_compiler
+linux-aarch64-unknown-linux-gnu> shrinking /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/scripts/basic/fixdep
+linux-aarch64-unknown-linux-gnu> checking for references to /build/ in /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev...
+linux-aarch64-unknown-linux-gnu> patchelf: cannot find section '.dynamic'. The input file is most likely statically linked
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patchelf: wrong ELF type
+linux-aarch64-unknown-linux-gnu> patching script interpreter paths in /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev
+linux-aarch64-unknown-linux-gnu> stripping (with command aarch64-unknown-linux-gnu-strip and flags -S -p) in  /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib
+linux-aarch64-unknown-linux-gnu> shrinking RPATHs of ELF executables and libraries in /nix/store/bqyc82k4n9d91clws3785r34zdbm1479-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-modules
+linux-aarch64-unknown-linux-gnu> checking for references to /build/ in /nix/store/bqyc82k4n9d91clws3785r34zdbm1479-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-modules...
+linux-aarch64-unknown-linux-gnu> patching script interpreter paths in /nix/store/bqyc82k4n9d91clws3785r34zdbm1479-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-modules
+linux-aarch64-unknown-linux-gnu> stripping (with command aarch64-unknown-linux-gnu-strip and flags -S -p) in  /nix/store/bqyc82k4n9d91clws3785r34zdbm1479-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-modules/lib
+linux-aarch64-unknown-linux-gnu> shrinking RPATHs of ELF executables and libraries in /nix/store/81jmasvhz4v2sjq0bww02iciqp7hh7r4-linux-aarch64-unknown-linux-gnu-7.3.0-rc1
+linux-aarch64-unknown-linux-gnu> checking for references to /build/ in /nix/store/81jmasvhz4v2sjq0bww02iciqp7hh7r4-linux-aarch64-unknown-linux-gnu-7.3.0-rc1...
+linux-aarch64-unknown-linux-gnu> patching script interpreter paths in /nix/store/81jmasvhz4v2sjq0bww02iciqp7hh7r4-linux-aarch64-unknown-linux-gnu-7.3.0-rc1
+linux-aarch64-unknown-linux-gnu> making symlink relative: /nix/store/nayax903gxfwc1cjjsaicsz0428p92mi-linux-aarch64-unknown-linux-gnu-7.3.0-rc1-dev/lib/modules/7.3.0-rc1/build/source
+building '/nix/store/7hs6gvfssyph2x55y2r7r4aj5p8b3xyn-ipad-air2-m1n1-hoolock-control.drv'...
+ipad-air2-m1n1-hoolock-control> <stdout>: Warning (simple_bus_reg): /soc/bus@20c000000: simple-bus unit address format error, expected "20c900000"
+ipad-air2-m1n1-hoolock-control> <stdin>:1147.15-1153.5: Warning (unit_address_vs_reg): /chosen/framebuffer: node has a reg or ranges property, but no unit name
+ipad-air2-m1n1-hoolock-control> <stdin>:302.17-333.5: Warning (simple_bus_reg): /soc/bus@20c000000: simple-bus unit address format error, expected "20c900000"
+ipad-air2-m1n1-hoolock-control> <stdin>:146.4-25: Warning (clocks_property): /soc/serial@20a0c0000:clocks: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:146.4-25: Warning (clocks_property): /soc/serial@20a0c0000:clocks: cell 1 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:159.4-25: Warning (clocks_property): /soc/serial@20a0cc000:clocks: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:159.4-25: Warning (clocks_property): /soc/serial@20a0cc000:clocks: cell 1 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:175.4-25: Warning (clocks_property): /soc/serial@20a0d4000:clocks: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:175.4-25: Warning (clocks_property): /soc/serial@20a0d4000:clocks: cell 1 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:193.4-20: Warning (clocks_property): /soc/spi@20a08c000:clocks: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:206.4-20: Warning (clocks_property): /soc/i2c@20a110000:clocks: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:260.4-20: Warning (clocks_property): /soc/i2c@20a111000:clocks: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:275.4-20: Warning (clocks_property): /soc/i2c@20a112000:clocks: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:290.4-20: Warning (clocks_property): /soc/i2c@20a113000:clocks: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:324.5-21: Warning (clocks_property): /soc/bus@20c000000/usbdev@20c100000:clocks: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:1061.4-20: Warning (clocks_property): /soc/watchdog@20e027000:clocks: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:326.5-24: Warning (phys_property): /soc/bus@20c000000/usbdev@20c100000:phys: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:148.4-27: Warning (power_domains_property): /soc/serial@20a0c0000:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:161.4-27: Warning (power_domains_property): /soc/serial@20a0cc000:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:177.4-27: Warning (power_domains_property): /soc/serial@20a0d4000:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:194.4-27: Warning (power_domains_property): /soc/spi@20a08c000:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:211.4-27: Warning (power_domains_property): /soc/i2c@20a110000:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:265.4-27: Warning (power_domains_property): /soc/i2c@20a111000:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:280.4-27: Warning (power_domains_property): /soc/i2c@20a112000:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:295.4-27: Warning (power_domains_property): /soc/i2c@20a113000:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:310.4-27: Warning (power_domains_property): /soc/bus@20c000000:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:315.5-28: Warning (power_domains_property): /soc/bus@20c000000/phy@20c000030:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:328.5-28: Warning (power_domains_property): /soc/bus@20c000000/usbdev@20c100000:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:454.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@20130:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:464.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@20138:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:474.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@20140:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:484.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@20148:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:494.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@20150:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:504.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@20158:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:514.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@20160:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:524.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@20168:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:534.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@20170:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:544.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@20178:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:554.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@20180:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:564.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@20188:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:574.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@20190:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:584.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@20198:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:594.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@201a0:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:604.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@201a8:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:614.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@201b0:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:624.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@201b8:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:634.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@201c0:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:644.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@201c8:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:654.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@201d0:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:664.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@201d8:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:674.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@201e0:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:684.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@201e8:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:694.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@201f0:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:714.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@20250:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:724.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@20258:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:734.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@20268:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:744.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@20278:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:790.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@202e0:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:800.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@202e8:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:810.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@202b0:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:820.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@202c8:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:839.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@20200:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:849.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@20208:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:907.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@20260:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:917.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@20288:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:957.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@202b8:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:967.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@202f0:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:986.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@20300:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:1033.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@21000:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:1043.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@21008:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:1053.5-28: Warning (power_domains_property): /soc/power-management@20e000000/power-controller@21010:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:1072.4-27: Warning (power_domains_property): /soc/interrupt-controller@20e100000:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:1079.4-27: Warning (power_domains_property): /soc/pinctrl@20e300000:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:1150.4-32: Warning (power_domains_property): /chosen/framebuffer:power-domains: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:1150.4-32: Warning (power_domains_property): /chosen/framebuffer:power-domains: cell 1 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:329.5-21: Warning (resets_property): /soc/bus@20c000000/usbdev@20c100000:resets: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:1161.4-29: Warning (gpios_property): /gpio-keys/button-home:gpios: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:1168.4-29: Warning (gpios_property): /gpio-keys/button-power:gpios: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:1175.4-29: Warning (gpios_property): /gpio-keys/button-volup:gpios: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> <stdin>:1181.4-29: Warning (gpios_property): /gpio-keys/button-voldown:gpios: cell 0 is not a phandle reference
+ipad-air2-m1n1-hoolock-control> 4428 blocks
+ipad-air2-m1n1-hoolock-control> 2229 blocks
