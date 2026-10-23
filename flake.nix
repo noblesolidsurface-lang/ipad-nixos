@@ -3978,9 +3978,18 @@
         modules = [ ./nixos/ipad-air2-ram.nix ];
       };
 
+      # RookPad: ipad-air2-ram + RetroArch + a TUI launcher (nixos/rookpad.nix).
+      # Built as its own NixOS system so the base config stays untouched for other work.
+      nixosConfigurations.rookpad = nixpkgs.lib.nixosSystem {
+        modules = [ ./nixos/rookpad.nix ];
+      };
+
       # The RAM system's pieces for the stage-1 hand-off (boot/nixos-handoff.sh): the toplevel and a zstd squashfs of its closure, root = the store paths (make-squashfs layout).
       # Built on the aarch64 builder: nix build .#packages.aarch64-linux.ipad-air2-ram-rootfs -o artifacts/live/gcroot-nixos-ram-rootfs
-      packages.aarch64-linux = let ramSystem = self.nixosConfigurations.ipad-air2-ram; in {
+      packages.aarch64-linux = let
+        ramSystem = self.nixosConfigurations.ipad-air2-ram;
+        rookpadSystem = self.nixosConfigurations.rookpad;
+      in {
         ipad-air2-ram-toplevel = ramSystem.config.system.build.toplevel;
         # One directory with exactly what the hand-off fetches, so the image and the toplevel path can never be mismatched: nix build .#packages.aarch64-linux.ipad-air2-ram-serve -o artifacts/live/gcroot-nixos-ram-serve
         ipad-air2-ram-serve = ramSystem.pkgs.runCommand "ipad-air2-ram-serve" { } ''
@@ -3991,6 +4000,18 @@
         ipad-air2-ram-rootfs = ramSystem.pkgs.callPackage "${nixpkgs}/nixos/lib/make-squashfs.nix" {
           fileName = "root";
           storeContents = [ ramSystem.config.system.build.toplevel ];
+          comp = "zstd -Xcompression-level 19";
+        };
+        # RookPad flavor: same hand-off pattern, different toplevel.
+        rookpad-toplevel = rookpadSystem.config.system.build.toplevel;
+        rookpad-serve = rookpadSystem.pkgs.runCommand "rookpad-serve" { } ''
+          mkdir -p $out
+          ln -s ${self.packages.aarch64-linux.rookpad-rootfs} $out/root.squashfs
+          echo ${builtins.unsafeDiscardStringContext (toString rookpadSystem.config.system.build.toplevel)} > $out/toplevel
+        '';
+        rookpad-rootfs = rookpadSystem.pkgs.callPackage "${nixpkgs}/nixos/lib/make-squashfs.nix" {
+          fileName = "root";
+          storeContents = [ rookpadSystem.config.system.build.toplevel ];
           comp = "zstd -Xcompression-level 19";
         };
       };
